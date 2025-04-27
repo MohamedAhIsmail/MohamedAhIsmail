@@ -2,7 +2,7 @@
 <h4 align="center">A passionate front-end developer</h4>
 <h2 align="left">About me</h2>
 <p>🌱 I’m currently learning Front-End Development.<br>💞️ I’m looking to collaborate on some web projects.<br>📫 How to reach me: mohamedismaildev@gmail.com
-<br>⚡ I love coding, gaming, reading and more.</p>
+<br>⚡ I love coding, reading, games and more.</p>
 <h2 align="center">Languages and Tools</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
