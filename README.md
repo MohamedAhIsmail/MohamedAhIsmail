@@ -14,7 +14,7 @@
 
 <br>
   
-# </> Technologies and Tools
+# </> Technologies & Tools
 
 ###
 
