@@ -1,27 +1,13 @@
 <h2 align="center">👋 Hi, I’m MOHAMED ISMAIL</h2>
-###
-
-<br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/mohamedahismail" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="mohamedismaildev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamedahismail) [![X](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:mohamedismaildev@gmail.com)
+
 </div>
 
-###
-
-<br clear="both">
-
-<h3 align="left">💫 About me</h3>
-
-###
-
-<br clear="both">
-
+# <h3 align="left">💫 About me</h3>
+##
 <p align="left">✨ I’m a Full Stack Web Developer based in Egypt, passionate about precision, creativity, and clean code. I specialize in building web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) with a solid background in JavaScript and modern development practices.<br><br>📚 I recently completed an intensive internship at the Information Technology Institute (ITI), where I worked on real-world projects, collaborated within agile teams, and enhanced my skills in Git, testing, and performance optimization.<br><br>🎯 I’m always learning, improving, and turning ideas into clean, purposeful code. Check out my pinned repositories to explore my latest work — I’m open to new opportunities and collaborations.</p>
 
 ###
