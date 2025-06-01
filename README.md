@@ -1,7 +1,4 @@
-<br clear="both">
-
 <h2 align="center">👋 Hi, I’m MOHAMED ISMAIL</h2>
-
 ###
 
 <br clear="both">
