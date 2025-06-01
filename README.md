@@ -12,7 +12,6 @@
 
 <p align="left">✨ I’m a Full Stack Web Developer based in Egypt, passionate about precision, creativity, and clean code. I specialize in building web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js) with a solid background in JavaScript and modern development practices.<br><br>📚 I recently completed an intensive internship at the Information Technology Institute (ITI), where I worked on real-world projects, collaborated within agile teams, and enhanced my skills in Git, testing, and performance optimization.<br><br>🎯 I’m always learning, improving, and turning ideas into clean, purposeful code. Check out my pinned repositories to explore my latest work — I’m open to new opportunities and collaborations.</p>
 
-<br>
 
 ###
 
