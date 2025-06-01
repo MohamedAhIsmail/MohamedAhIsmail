@@ -14,7 +14,7 @@
 
 ###
 
-<br clear="both">
+
 
 # </> Technologies and Tools
 
